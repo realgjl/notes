@@ -1,4 +1,4 @@
-# CME 211 Notes
+# CME 211 Notes 
 
 2018 CME 211 Canvas page: <https://canvas.stanford.edu/courses/87822>
 
